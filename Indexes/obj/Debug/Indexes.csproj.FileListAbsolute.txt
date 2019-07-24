@@ -1,0 +1,6 @@
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\Indexes\bin\Debug\Indexes.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\Indexes\bin\Debug\Indexes.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\Indexes\bin\Debug\Indexes.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\Indexes\obj\Debug\Indexes.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\Indexes\obj\Debug\Indexes.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\Indexes\obj\Debug\Indexes.pdb

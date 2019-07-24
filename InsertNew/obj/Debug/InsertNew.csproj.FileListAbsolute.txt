@@ -1,0 +1,7 @@
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\InsertNew\bin\Debug\InsertNew.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\InsertNew\bin\Debug\InsertNew.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\InsertNew\bin\Debug\InsertNew.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\InsertNew\obj\Debug\InsertNew.csprojAssemblyReference.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\InsertNew\obj\Debug\InsertNew.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\InsertNew\obj\Debug\InsertNew.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\InsertNew\obj\Debug\InsertNew.pdb
