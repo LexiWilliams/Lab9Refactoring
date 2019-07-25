@@ -109,7 +109,7 @@ namespace Lab9_Refactoring
             }
             else if (studentInfo == "add")
             {
-                int nameIndex = AppendToListName("What is the name of the student?", list1);
+                int nameIndex = (AppendToListName("What is the name of the student?", list1))-1;
                 AppendToList("What is their hometown?", list1, list2, nameIndex);
                 AppendToList("What is their favorite food?", list1, list3, nameIndex);
                 AppendToList("What pets do they have?", list1, list4, nameIndex);
