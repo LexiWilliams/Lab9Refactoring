@@ -29,6 +29,10 @@ namespace Lab9_Refactoring
         public static int GetNumber(string message, List<string> list)
         {
             Console.WriteLine(message);
+            foreach (string name in list)
+            {
+                Console.WriteLine($"{list.IndexOf(name)+1}: {name}");
+            }
             string input = Console.ReadLine();
             if (int.TryParse(input, out int number))
             {
