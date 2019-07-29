@@ -5,3 +5,10 @@ C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\Lab9-Refactoring\obj\
 C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\Lab9-Refactoring\obj\Debug\Lab9-Refactoring.csproj.CoreCompileInputs.cache
 C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\Lab9-Refactoring\obj\Debug\Lab9-Refactoring.exe
 C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Lab9-Refactoring\Lab9-Refactoring\obj\Debug\Lab9-Refactoring.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab9-Refactoring\Lab9-Refactoring\bin\Debug\Lab9-Refactoring.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab9-Refactoring\Lab9-Refactoring\bin\Debug\Lab9-Refactoring.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab9-Refactoring\Lab9-Refactoring\bin\Debug\Lab9-Refactoring.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab9-Refactoring\Lab9-Refactoring\obj\Debug\Lab9-Refactoring.csprojAssemblyReference.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab9-Refactoring\Lab9-Refactoring\obj\Debug\Lab9-Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab9-Refactoring\Lab9-Refactoring\obj\Debug\Lab9-Refactoring.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 2\Labs\Lab9-Refactoring\Lab9-Refactoring\obj\Debug\Lab9-Refactoring.pdb
